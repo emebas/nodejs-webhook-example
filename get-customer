@@ -1,0 +1,19 @@
+{
+  "webhook_id": "Jd3Zr697R",
+  "secret_key": "jLS2ZC2OnsZifL9UweWm0om8FYIBIEGo",
+  "action": "incoming_customer",
+  "organization_id": "6565e5f2-4c91-456a-a777-be7cc8fe5e6f",
+  "payload": {
+    "customer": {
+    // "User > Customer" object
+    }
+  },
+  "additional_data": {
+    "chat_properties": { //optional
+        // chat properties
+    },
+    "chat_presence_user_ids": [ //optional
+      // User IDs
+    ]
+  }
+}
